@@ -1,0 +1,1 @@
+export default function Boton() { return <button>Botón</button>; }

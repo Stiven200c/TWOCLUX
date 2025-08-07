@@ -1,0 +1,1 @@
+export default function Tarjeta() { return <div>Tarjeta</div>; }
