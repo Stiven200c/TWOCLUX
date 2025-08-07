@@ -1,1 +1,0 @@
-export default function Index() { return <div>Página principal</div>; }
